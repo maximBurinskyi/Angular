@@ -1,7 +1,7 @@
 
 
 
-interface PostModel {
+export interface PostModel {
   userId: number;
   id: number;
   title: string;
